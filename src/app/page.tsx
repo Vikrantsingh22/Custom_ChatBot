@@ -19,7 +19,7 @@ export default function Home() {
         </span> */}
       </div>
       <p className="max-w-prose text-center">
-        Welcome to LearnBlocks <br /> I am an AI bot to help in learning .
+        Welcome to ThinkLabs <br /> I am an AI bot to help in learning .
       </p>
       <Button size="lg" asChild>
         <Link href="/notes">Open</Link>
