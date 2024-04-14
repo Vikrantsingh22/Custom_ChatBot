@@ -4,7 +4,7 @@ import { auth } from "@clerk/nextjs";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "LearnBlocks - Notes",
+  title: "ThinkLabs - Notes",
 };
 
 export default async function NotesPage() {
